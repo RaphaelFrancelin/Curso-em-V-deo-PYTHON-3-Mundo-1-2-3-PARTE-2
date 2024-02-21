@@ -1,0 +1,6 @@
+José;35
+Gustavo;41
+Maria;85
+Nayara;34
+Lorenzo;8
+Isadora;6
